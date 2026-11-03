@@ -47,4 +47,3 @@ The button and cover open the project's download page. Use the information suppl
 ---
 
 Star Wars Galactic Racer Race Toolkit · Program documentation and download information.
-                                                                                                    
